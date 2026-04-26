@@ -34,13 +34,13 @@ const tasin = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tasin-rahman90&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasin-rahman90&show_icons=true&theme=github_dark" />
+</p>
 
 ---
 
